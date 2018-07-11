@@ -7,6 +7,7 @@
       <mapping pattern="todolist" type="PLAIN_TEXT" />
       <mapping ext="wat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
