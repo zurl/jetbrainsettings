@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".babelrc" type="JSON" />
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
-      <mapping pattern=".babelrc" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
