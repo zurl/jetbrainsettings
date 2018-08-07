@@ -13,7 +13,9 @@
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="def" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
