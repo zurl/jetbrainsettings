@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="trident" type="PLAIN_TEXT" />
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping pattern=".uglifyrc" type="PLAIN_TEXT" />
       <mapping pattern="grammar" type="PLAIN_TEXT" />
