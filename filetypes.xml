@@ -22,6 +22,7 @@
       <mapping ext="expr" type="PLAIN_TEXT" />
       <mapping ext="metis" type="PLAIN_TEXT" />
       <mapping ext="def" type="PLAIN_TEXT" />
+      <mapping ext="jjs" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="cu" type="PLAIN_TEXT" />
     </extensionMap>
